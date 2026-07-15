@@ -1,0 +1,1 @@
+# aws-security-assessment-report-template
